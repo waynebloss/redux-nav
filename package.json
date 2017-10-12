@@ -1,7 +1,7 @@
 {
   "name": "redux-nav",
-  "version": "0.1.0",
-  "private": true,
+  "version": "0.0.1",
+  "main": "lib/index.js",
   "dependencies": {
     "autoprefixer": "7.1.2",
     "babel-core": "6.25.0",
@@ -44,6 +44,7 @@
   "scripts": {
     "start": "node scripts/start.js",
     "build": "node scripts/build.js",
+    "lib": "babel src/node_modules --out-dir lib --copy-files",
     "test": "node scripts/test.js --env=jsdom"
   },
   "jest": {
