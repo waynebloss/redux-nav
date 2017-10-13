@@ -2,6 +2,10 @@
   "name": "redux-nav",
   "version": "0.0.1-test",
   "license": "MIT",
+  "author": {
+    "name": "Wayne Bloss",
+    "email": "waynebloss@gmail.com"
+  },
   "main": "lib/index.js",
   "scripts": {
     "start": "node scripts/start.js",
