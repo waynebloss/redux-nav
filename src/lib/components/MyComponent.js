@@ -4,7 +4,7 @@ export default class MyComponent extends React.Component {
   
   render() {
     return (
-      <div>
+      <div className={this.props.className}>
         <h1>Hello!</h1>
         {this.props.children}
       </div>
