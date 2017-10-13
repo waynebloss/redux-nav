@@ -1,6 +1,6 @@
 {
   "name": "redux-nav",
-  "version": "0.0.1",
+  "version": "0.0.1-test",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
