@@ -1,11 +1,12 @@
 {
   "name": "redux-nav",
-  "version": "0.0.1-test",
+  "version": "0.0.1-test2",
   "license": "MIT",
   "author": {
     "name": "Wayne Bloss",
     "email": "waynebloss@gmail.com"
   },
+  "repository": "https://github.com/waynebloss/redux-nav",
   "main": "lib/index.js",
   "scripts": {
     "start": "node scripts/start.js",
